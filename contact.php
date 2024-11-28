@@ -379,6 +379,7 @@
 
         .footer-input {
             padding: 0.45rem 1.2rem;
+            
         }
 
         .btn {
