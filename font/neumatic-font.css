@@ -1,0 +1,189 @@
+@font-face {
+    font-family: 'Neumatic Compressed';
+    src: url('NeumaticCompressed-Medium.woff2') format('woff2'),
+        url('NeumaticCompressed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Compressed';
+    src: url('NeumaticCompressed-Light.woff2') format('woff2'),
+        url('NeumaticCompressed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Compressed';
+    src: url('NeumaticCompressed-ExtraBold.woff2') format('woff2'),
+        url('NeumaticCompressed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Compressed';
+    src: url('NeumaticCompressed-Bold.woff2') format('woff2'),
+        url('NeumaticCompressed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Compressed';
+    src: url('NeumaticCompressed-Black.woff2') format('woff2'),
+        url('NeumaticCompressed-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic';
+    src: url('NeumaticGothic-Bold.woff2') format('woff2'),
+        url('NeumaticGothic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic';
+    src: url('NeumaticGothic-Black.woff2') format('woff2'),
+        url('NeumaticGothic-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Compressed';
+    src: url('NeumaticCompressed-SemiBold.woff2') format('woff2'),
+        url('NeumaticCompressed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Compressed';
+    src: url('NeumaticCompressed-Regular.woff2') format('woff2'),
+        url('NeumaticCompressed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Black Oblique';
+    src: url('NeumaticGothic-BlackOblique.woff2') format('woff2'),
+        url('NeumaticGothic-BlackOblique.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Bold Oblique';
+    src: url('NeumaticGothic-BoldOblique.woff2') format('woff2'),
+        url('NeumaticGothic-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Extra';
+    src: url('NeumaticGothic-ExtraBold.woff2') format('woff2'),
+        url('NeumaticGothic-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Light Oblique';
+    src: url('NeumaticGothic-LightOblique.woff2') format('woff2'),
+        url('NeumaticGothic-LightOblique.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic';
+    src: url('NeumaticGothic-Light.woff2') format('woff2'),
+        url('NeumaticGothic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Extra Bold Oblique';
+    src: url('NeumaticGothic-ExtraBoldOblique.woff2') format('woff2'),
+        url('NeumaticGothic-ExtraBoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic';
+    src: url('NeumaticGothic-Medium.woff2') format('woff2'),
+        url('NeumaticGothic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Medium Oblique';
+    src: url('NeumaticGothic-MediumOblique.woff2') format('woff2'),
+        url('NeumaticGothic-MediumOblique.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Oblique';
+    src: url('NeumaticGothic-RegularOblique.woff2') format('woff2'),
+        url('NeumaticGothic-RegularOblique.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic';
+    src: url('NeumaticGothic-Regular.woff2') format('woff2'),
+        url('NeumaticGothic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Semi Bold Oblique';
+    src: url('NeumaticGothic-SemiBoldOblique.woff2') format('woff2'),
+        url('NeumaticGothic-SemiBoldOblique.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neumatic Gothic Semi';
+    src: url('NeumaticGothic-SemiBold.woff2') format('woff2'),
+        url('NeumaticGothic-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
