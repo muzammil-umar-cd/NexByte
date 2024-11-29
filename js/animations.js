@@ -164,7 +164,7 @@ function initAnims(e = !1) {
                 ease: "Power2.easeOut",
                 onComplete: function() {
                     setTimeout(() => {
-                        if ("index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e);
+                        if ("index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e || "privacy-policy.php" == e || "terms-conditions.php" == e);
                         else {
                             let t = $(".inner-banner").outerHeight() + $(".sticky-nav").outerHeight() + $(".sticky-nav .container-fluid").outerHeight();
                             window.matchMedia("(min-width: 800px)").matches ? $(".linking-slider a").attr("data-scroll-offset", "-" + (t - 40)) : 1 == r ? $(".linking-slider a").attr("data-scroll-offset", "-" + (t - 130)) : $(".linking-slider a").attr("data-scroll-offset", "-" + (t - 45)), setTimeout(() => {
@@ -175,7 +175,7 @@ function initAnims(e = !1) {
                 },
                 onReverseComplete: function() {
                     setTimeout(() => {
-                        if ("index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e);
+                        if ("index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e || "privacy-policy.php" == e || "terms-conditions.php" == e);
                         else {
                             let t = $(".inner-banner").outerHeight() + $(".sticky-nav").outerHeight() + $(".sticky-nav .container-fluid").outerHeight();
                             window.matchMedia("(min-width: 800px)").matches ? $(".linking-slider a").attr("data-scroll-offset", "-" + (t - 75)) : 1 == r ? $(".linking-slider a").attr("data-scroll-offset", "-" + (t - 130)) : $(".linking-slider a").attr("data-scroll-offset", "-" + (t - 70)), setTimeout(() => {
@@ -184,16 +184,16 @@ function initAnims(e = !1) {
                         }
                     }, 1e3)
                 }
-            }), "index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e || 1 == r && window.setInterval(function() {
+            }), "index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e || "privacy-policy.php" == e || "terms-conditions.php" == e || 1 == r && window.setInterval(function() {
                 let e = $(".inner-banner").outerHeight() + $(".sticky-nav").outerHeight() + $(".sticky-nav .container-fluid").outerHeight();
                 $(".linking-slider a").attr("data-scroll-offset", "-" + (e - 140))
-            }, 1e3), "index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e);
+            }, 1e3), "index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e || "privacy-policy.php" == e || "terms-conditions.php" == e);
         else {
             let c = $(".inner-banner").outerHeight() + $(".sticky-nav").outerHeight() + $(".sticky-nav .container-fluid").outerHeight();
             window.matchMedia("(min-width: 800px)").matches ? $(".linking-slider a").attr("data-scroll-offset", "-" + (c - 75)) : 1 == r ? $(".linking-slider a").attr("data-scroll-offset", "-" + (c - 130)) : $(".linking-slider a").attr("data-scroll-offset", "-" + (c - 45))
         }
     }
-    if ("index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e) {
+    if ("index.php" == e || "" == e || "about.php" == e || "contact.php" == e || "services.php" == e || "website-development.php" == e || "portfolio.php" == e || "graphic-designing.php" == e || "digital-marketing.php" == e || "seo-content-writing.php" == e || "app-development.php" == e || "ui-ux-designing.php" == e || "privacy-policy.php" == e || "terms-conditions.php" == e) {
         if (window.matchMedia("(min-width: 800px)").matches) {
             var p = new Swiper(".stats-swiper", {
                 slidesPerView: "auto",

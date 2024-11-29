@@ -354,7 +354,7 @@
 
    .footer-menu li a {
       font-size: 14px;
-      color: #878787;
+      color: #307cf2 !important;
    }
 </style>
 <div class="cus-hr m-0"></div>
@@ -431,11 +431,10 @@
             <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
                <div class="footer-menu">
                   <ul>
-                     <li><a onclick="location.href = 'index.php';">Home</a></li>
-                     <li><a href="#">Terms</a></li>
-                     <li><a href="#">Privacy</a></li>
-                     <li><a href="#">Policy</a></li>
-                     <li><a href="#">Contact</a></li>
+                     <li><a class="" onclick="location.href = 'index.php';">Home</a></li>
+                     <li><a class="" onclick="location.href = 'terms-conditions.php';">Terms & Conditions</a></li>
+                     <li><a class="" onclick="location.href = 'privacy-policy.php';">Privacy Policy</a></li>
+                     <li><a class="" onclick="location.href = 'contact.php';">Contact</a></li>
                   </ul>
                </div>
             </div>

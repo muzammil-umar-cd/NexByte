@@ -60,7 +60,7 @@ $(function () {
         o = i.pop() || i.pop();
     setStickyNavOffset(), reInitJS(), initAnims(o);
     let n = 0;
-    if ("index.php" != o || "" != o || "about.php" != o || "contact.php" != o || "services.php" != o || "portfolio.php" != o || "graphic-designing.php" != o || "digital-marketing.php" != o || "seo-content-writing.php" != o || "app-development.php" != o || "ui-ux-designing.php" != o || "website-development.php" != o) {
+    if ("index.php" != o || "" != o || "about.php" != o || "contact.php" != o || "services.php" != o || "portfolio.php" != o || "graphic-designing.php" != o || "digital-marketing.php" != o || "seo-content-writing.php" != o || "app-development.php" != o || "ui-ux-designing.php" != o || "website-development.php" != o || "privacy-policy.php" != o || "terms-conditions.php" != o) {
         let s = setInterval(function () {
             if ("complete" === document.readyState) {
                 let e = new URLSearchParams(window.location.search),
@@ -216,7 +216,7 @@ barba.hooks.beforeOnce((e) => { }),
                         }
                     } else
                         "index.php" == a ||
-                            "" == a || "about.php" == a || "contact.php" == a || "services.php" == a || "portfolio.php" == a || "website-development.php" == a || "graphic-designing.php" == a || "app-development.php" == a || "ui-ux-designing.php" == a || "digital-marketing.php" == a || "seo-content-writing.php" == a || 
+                            "" == a || "about.php" == a || "contact.php" == a || "services.php" == a || "portfolio.php" == a || "website-development.php" == a || "graphic-designing.php" == a || "app-development.php" == a || "ui-ux-designing.php" == a || "digital-marketing.php" == a || "seo-content-writing.php" == a || "privacy-policy.php" == a || "terms-conditions.php" == a || 
                             locoScroll.scrollTo(o, {
                                 offset: -n,
                                 callback: function () {
