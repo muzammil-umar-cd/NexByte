@@ -603,7 +603,7 @@ header {
     margin: 0;
   }
   .main-logo a img {
-    width: auto;
+    width: 50%;
   }
 }
 @media (min-width: 992px) {
@@ -704,7 +704,10 @@ header {
     height: 14px;
   }
   .ham-menu-inner-bx .logo-ham a .ham-logo {
-    width: 60%;
+    width: 36%;
+  }
+  .mobile-menu-inner-bx {
+    margin: 50px 17px;
   }
   .main-ul .mu-li .inner-wrap {
     display: block;

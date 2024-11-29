@@ -145,7 +145,8 @@
 
       @media (max-width: 480px) {
          .carousel-container {
-            width: 118vw;
+            width: 110vw;
+            padding-left: 10px;
          }
 
          .carousel-container .panel {

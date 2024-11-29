@@ -6654,6 +6654,26 @@ footer .ftr-links li a:hover {
   }
 }
 @media (min-width: 280px) and (max-width: 575px) {
+  .footer-logo img {
+    max-width: 70%;
+    margin-left: 67px;
+  }
+  ul.social3d li {
+    margin: -38px 20px -38px -82px;
+  }
+  .footer-widget-heading h3, .footer-link ul {
+    padding: 17px;
+  }
+  .footer-widget-heading h3::before {
+    margin: 17px;
+  }
+  .footer-text p {
+    padding: 17px;
+  }
+  .footer-social-icon span {
+    color: #fff;
+    padding: 18px;
+  }
   .container-fluid {
     padding-right: var(--bs-gutter-x, 0.75rem);
     padding-left: var(--bs-gutter-x, 0.75rem);
@@ -6824,7 +6844,7 @@ footer .ftr-links li a:hover {
     width: auto;
   }
   .swiper-slide {
-    width: 267.692px !important;
+    width: 196.182px !important;
   }
   .interactive-swiper .swiper-slide {
     width: 267.692px !important;
@@ -6868,7 +6888,7 @@ footer .ftr-links li a:hover {
   }
   .transform-box-wrap .text ul {
     position: relative;
-    left: -30px !important;
+    left: 3px !important;
     line-height: 29px;
   }
   .scroll-heading div.h1,
@@ -6901,7 +6921,7 @@ footer .ftr-links li a:hover {
     bottom: 17px;
   }
   .default-box-wrap {
-    padding: 0;
+    padding: 11px;
     background-color: transparent !important;
     border: 0 solid transparent !important;
     border-radius: 0 !important;
