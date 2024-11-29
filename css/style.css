@@ -6665,7 +6665,7 @@ footer .ftr-links li a:hover {
     margin: -38px 20px -38px -82px;
   }
   .footer-widget-heading h3, .footer-link ul {
-    padding: 0 9px 0 17px;
+    padding: 17px;
   }
   .footer-widget-heading h3::before {
     margin: 17px;
