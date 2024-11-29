@@ -6658,6 +6658,9 @@ footer .ftr-links li a:hover {
     max-width: 70%;
     margin-left: 67px;
   }
+  .footer-widget ul li {
+    padding: 0 17px 0 17px;
+  }
   ul.social3d li {
     margin: -38px 20px -38px -82px;
   }

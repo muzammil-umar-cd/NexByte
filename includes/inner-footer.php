@@ -97,7 +97,10 @@
 
    @media (max-width:600px) {
       ul.social3d {
-         transform: scale(.6)
+         transform: scale(.6);
+         margin-left: -74px !important;
+         margin-top: -17px !important;
+         margin-bottom: 10px !important;
       }
    }
 
