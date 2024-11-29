@@ -468,6 +468,30 @@
    integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA=="
    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+   <script>
+      $(document).ready(function () {
+         function toggleHamburger() {
+            if (window.innerWidth <= 500) {
+                  $('#hamburger').on('click', function () {
+                     if ($(this).hasClass('open')) {
+                        $('#overlay').css('transform', 'translate(0px)');
+                     } else {
+                        $('#overlay').css('transform', 'translate(434px)');
+                     }
+                  });
+            }
+         }
+
+         // Run on load
+         toggleHamburger();
+
+         // Reapply on window resize
+         $(window).resize(function () {
+            toggleHamburger();
+         });
+      });
+
+   </script>
 <script>
    $(document).ready(function() {
       // Get the current page path
