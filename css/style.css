@@ -6656,7 +6656,7 @@ footer .ftr-links li a:hover {
 @media (min-width: 280px) and (max-width: 575px) {
   .footer-logo img {
     max-width: 70%;
-    margin-left: 67px;
+    margin-left: 40px;
   }
   .footer-widget ul li {
     padding: 0 17px 0 17px;

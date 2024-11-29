@@ -73,7 +73,8 @@
    }
 
    .footer-logo {
-      margin-bottom: 30px;
+      margin-bottom: 10px;
+      margin-top: -40px;
    }
 
    .footer-logo img {
@@ -368,7 +369,7 @@
                      <a href="javascript:;" onclick="location.href = 'index.php';"><img src="images/nextbyte.png" class="img-fluid" alt="logo"></a>
                   </div>
                   <div class="footer-text">
-                     <p>NexByte is redefining digital solutions. Be it digital marketing, website development, or SEO and content writing, we know our stuff to the core. Nothing makes us happier than turning our clients into success stories. </p>
+                     <p>NexByte is redefining digital solutions. Be it digital marketing, website development, or  </p>
                   </div>
                   <div class="footer-social-icon">
                      <span>Follow us</span>
