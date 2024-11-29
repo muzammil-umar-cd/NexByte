@@ -365,7 +365,7 @@
                                  <div class="ham-menu-inner-bx">
                                     <div class="logo-ham">
                                        <a href="javascript:;">
-                                          <img src="../images/nextbyte.png" class="img-fluid ham-logo" alt="NexByte" />
+                                          <img src="../images/nexbyte.png" class="img-fluid ham-logo" alt="NexByte" />
                                        </a>
                                     </div>
                                  </div>
