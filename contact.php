@@ -220,6 +220,7 @@
 
     .contact-info .footer-title {
         color: #307cf2;
+        line-height: 31px;
     }
 
     .text {

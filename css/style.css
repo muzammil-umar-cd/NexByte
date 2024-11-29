@@ -6654,6 +6654,7 @@ footer .ftr-links li a:hover {
   }
 }
 @media (min-width: 280px) and (max-width: 575px) {
+  
   .footer-logo img {
     max-width: 70%;
     margin-left: 40px;
@@ -7704,6 +7705,37 @@ footer .ftr-links li a:hover {
   }
 }
 @media (min-width: 280px) and (max-width: 575px) {
+  .why-us-section{
+    padding: 0px 0px 80px !important;
+  }
+  .work-tabs .text-col .inner{
+    padding-left: 12px !important;
+  }
+  .services-section-two{
+    padding: 0 !important;
+  }
+  .why-us-section .right-col .inner{
+    padding-left: 5px !important;
+  }
+  .footer-social-media {
+    text-align: center;
+  }
+  .footer-social-media .social-icons {
+    justify-content: center;
+  }
+  .card__bx {
+    left: -4px;
+  }
+  .default-tabs .tab-buttons .tab-btn, .work-tabs .tab-buttons .tab-btn {
+    margin-right: -3px !important;
+    line-height: 22px !important;
+    font-size: 12px !important;
+    padding: 14px 0 11px !important;
+  }
+  .default-tabs .tab-buttons .tab-btn span, .work-tabs .tab-buttons .tab-btn span{
+    font-size: 11px !important;
+    padding: 0px 28px 0px !important;
+  }
   .single-job-box {
     height: 350px;
   }

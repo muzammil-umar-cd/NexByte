@@ -497,7 +497,30 @@
       })
    });
 </script>
+<script>
+      $(document).ready(function () {
+         function toggleHamburger() {
+            if (window.innerWidth <= 500) {
+                  $('#hamburger').on('click', function () {
+                     if ($(this).hasClass('open')) {
+                        $('#overlay').css('transform', 'translate(0px)');
+                     } else {
+                        $('#overlay').css('transform', 'translate(434px)');
+                     }
+                  });
+            }
+         }
 
+         // Run on load
+         toggleHamburger();
+
+         // Reapply on window resize
+         $(window).resize(function () {
+            toggleHamburger();
+         });
+      });
+
+   </script>
 <script>
    $(".greeting-close").click(function() {
       $(".greeting-wrapper").hide();
