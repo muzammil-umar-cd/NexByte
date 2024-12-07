@@ -14,10 +14,7 @@
                <span>About Us</span>
                <span class="banner-text-wrap">
                   <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                     data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">we are
-                     reimagining the way business is done and product is consumed. we have committed ourselves
-                     to transforming business into an experience driven by data, technology, creativity and
-                     innovation.
+                     data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">We at NexByte are committed to redefining the business landscape and enhancing the consumer experience. We are transforming the dream of businesses being a data, creativity, and technology-driven experience into a reality.
                   </span>
                </span>
             </h1>
@@ -582,12 +579,12 @@
          <!--Title Block-->
          <div class="row clearfix">
             <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12">
-               <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Focusing On The Core Of Digital Since 2008
+               <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Carrying The Core Of Digital Since 2008
                   <span class="dot">.</span>
                </h1>
             </div>
             <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12">
-               <div class="lower-text">NexByte is a digital marketing and web design agency with the sole purpose of providing services to customers who envision establishing a strong online presence. Our headquarters are located in Karachi, the hometown that birthed the entity that we now call NexByte.
+               <div class="lower-text">We are a digital marketing and web design agency committed to businesses seeking to establish a strong online presence. Our headquarters are located in Karachi. This city is the hometown of the agency that we have now come to know as NexByte.
 
                </div>
             </div>
@@ -657,24 +654,21 @@
             <div class="inner">
                <div class="sec-title">
                   <h3 style="font-family: 'Vipnagorgialla Rg';font-size: 2.5rem;">Why Choose NexByte?</h3>
-                  <div class="lower-text" style="font-family: 'Cocogoose Pro Light';font-size: 15px !important;">We are committed to providing our customers with exceptional
-                     service while offering our employees the best training. There are many variations of
-                     passages of lorem ipsum is simply free text available in the market, but the
-                     majority have suffered time.</div>
+                  <div class="lower-text" style="font-family: 'Cocogoose Pro Light';font-size: 15px !important;">We treat every one of our customers as a serious commitment and invest considerable time in honing the skills of our employees. Other than that, the following points describe what sets us apart from the rest:</div>
                </div>
                <div class="features">
                   <div class="row clearfix">
                      <div class="feature col-md-6 col-sm-12">
                         <div class="inner-box">
-                           <h6>Affordable Services</h6>
-                           <div class="text">We offer high-quality services at the best prices you are unlikely to find anyplace else.
+                           <h6>Budget-friendly services </h6>
+                           <div class="text">We provide premium quality services at a price we dare you to find elsewhere.
                            </div>
                         </div>
                      </div>
                      <div class="feature col-md-6 col-sm-12">
                         <div class="inner-box">
-                           <h6>Expert Team</h6>
-                           <div class="text">NexByte agency is comprised of the best experts in town who are reliable and know what they’re doing.
+                           <h6>Expert talent</h6>
+                           <div class="text">NexByte agency is home to the best talent in town. Not only are they reliable, but they also know A-Z of the services required of them.
                            </div>
                         </div>
                      </div>
@@ -685,17 +679,16 @@
                <div class="row clearfix">
                   <div class="feature col-md-6 col-sm-12">
                      <div class="inner-box">
-                        <h6>Attention to Detail</h6>
-                        <div class="text">It is our absolute attention to detail and a keen eye out for competitors that help us design a plan that falls within your best interests.
+                        <h6>No detail unnoticed</h6>
+                        <div class="text">Let us handle your competitors because we know what to watch out for. With our level of attention to detail, we’re able to make a plan that meets your goals and is aligned with your interests.
                         </div>
                      </div>
                   </div>
                   <div class="feature col-md-6 col-sm-12">
                      <div class="inner-box">
-                        <h6>Least Turnaround Time
+                        <h6>Unmatched turnaround time
                         </h6>
-                        <div class="text">Depending on the complexity of your project, we set out a strict schedule that helps us complete it as soon as possible. We complete even the most difficult tasks in a matter of a few weeks.
-
+                        <div class="text">NexByte draws a firm and realistic projected timeline for all our clients. No matter how tricky or challenging the project, you can bet on us to finish it when required. Our team can whip up solutions for even the most difficult tasks in no time.
                         </div>
                      </div>
                   </div>
@@ -734,7 +727,7 @@
                      <div class="tab active-tab" id="tab-1" style="display: block;">
                         <div class="content">
                            <div class="text">
-                              <p>NexByte has partaken the mission to provide services to a myriad of companies that are looking to establish a prominent position in the digital world. We strive to break all barriers in reaching absolute perfection that benefits not only us but millions of businesses worldwide. Our ultimate mission is to transform how digital and IT is perceived in Pakistan by sparking the interest of youth and expanding the horizons of the digital world in Pakistan.
+                              <p>NexByte’s recent mission has been to assist upcoming companies find their footing in the digital landscape. We strive to break all barriers in reaching absolute perfection that benefits not only us but millions of businesses worldwide. And finally, part of our core mission is to change the general perception of IT and the digital world in Pakistan
                               </p>
                            </div>
                         </div>
@@ -744,7 +737,7 @@
                      <div class="tab" id="tab-2" style="display: none;">
                         <div class="content">
                            <div class="text">
-                              <p>We envision becoming the number one leading digital marketing company not only in Pakistan but the entire world as well. This goal, coupled with our desperation to improve Pakistan’s standing in the global digital world has motivated us to go above and beyond in our mission to become a leading Pakistani IT company recognized and acknowledged by the world. We envision a nation where unethical business practices are condemned and the workforce is valued and motivated to do better which will ultimately result in Pakistan’s prosperity.
+                              <p>Our vision, from the beginning, has been to lead the digital marketing industry in our country. Or might we say the rest of the world, too? No dream is too big, right? It is for this dream that we’ve been able to deliver excellent results and have gone above and beyond to cater to our clients. NexByte’s strongest motivator is the hope to substantially alter the digital world in Pakistan. We also envision a world free of unethical business practices, where employees are made to feel valued so they can realize the vision we have conjured. 
                               </p>
                            </div>
                         </div>
@@ -754,7 +747,9 @@
                      <div class="tab" id="tab-3" style="display: none;">
                         <div class="content">
                            <div class="text">
-                              <p>NexByte started off as a small digital marketing firm xyz years ago catering to businesses within Pakistan. Like every other company starting a venture from scratch, we’ve had our fair share of hardships. Primarily, the company that you know now as NexByte was just a group of passionate digital marketing experts running here and there to make ends meet. This was until we decided to sit down together and give birth to a tech-based agency that thrives on its principles of ethics, professionalism, and social responsibility. Through our dedication, hard work, and consistency, we’ve managed to come a long way. We now stand as one of the largest web design agencies that run parallel to the leading names in the industry. It's the core belief of NexByte that hard work and dedication can make everything possible!
+                              <p>Back in the day, Nexbyte used to be just a tiny digital marketing firm that serviced Pakistani businesses. Like every other company starting a venture from scratch, we’ve had our fair share of hardships. At first, we were just a bunch of tech heads running around trying to survive in the digital world. Somewhere down the line, we came together and decided to begin our journey as a tech-based agency that holds ethics, professionalism, and social responsibility as its core principles. 
+It is through sheer determination, consistency, and hard work that we have managed to climb so high. Here we are now, standing as one of the largest web design agencies, head-to-head with all the big guns in the industry. Nexbyte believes in the power of hard work and dedication to alchemize dreams into reality!
+
                               </p>
                            </div>
                         </div>
@@ -769,7 +764,7 @@
             <div class="inner">
                <div class="text">
                   <p style="font-family: 'Cocogoose Pro Light' !important;">
-                     Located primarily in the busiest city of Pakistan, i.e. Karachi, NexByte is an IT company that values professionalism and creativity and abides by all ethics strictly. We take utmost pleasure in providing digital marketing and web design solutions to customers that are either getting started or are taking their existing business online. We have joined hands with some of the best IT specialists in the business who have contributed to the success of the company. The <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">360</span>-digital services we provide and excel in are:
+                  Thriving right in the hustle and bustle of the city of lights, Karachi, NexByte is an IT company that values creativity, ethics, and professionalism above all else. Our work is focused on helping new businesses take off with digital marketing and web design solutions or helping existing businesses build a proud online presence. Though we’d love to take all the credit for our success, this wasn’t possible without the support from some of the best experts in the IT industry. Below is a list of some of the <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">360</span>-digital services we take great pride in providing:
                   </p>
                </div>
                <div class="featured-block-two clearfix">
