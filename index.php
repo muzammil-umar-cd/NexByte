@@ -11,14 +11,10 @@
                      data-scroll-position="top" data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
                      <h1 data-scroll data-scroll-speed="3" data-scroll-position="top" data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">
-                        <span>delivering <span style="color: #307cf2 !important; opacity: 1 !important;-webkit-text-fill-color: #307cf2;">digital</span> <br class="d-none-br"> experiences
-                           that <br class="d-none-br"> make <span style="color: #307cf2 !important; opacity: 1 !important;-webkit-text-fill-color: #307cf2;">the world <br class="d-none-br">better</span> </span>
+                        <span>Creating A <span style="color: #307cf2 !important; opacity: 1 !important;-webkit-text-fill-color: #307cf2;">Better World</span>, <br class="d-none-br">One Digital Experience  <span style="color: #307cf2 !important; opacity: 1 !important;-webkit-text-fill-color: #307cf2;">At A <br class="d-none-br">Time</span> </span>
                         <span class="banner-text-wrap">
                            <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                              data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">we are
-                              reimagining the way business is done and product is consumed. we have committed ourselves
-                              to transforming business into an experience driven by data, technology, creativity and
-                              innovation.
+                              data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">We at NexByte are committed to redefining the business landscape and enhancing the consumer experience. We are transforming the dream of businesses being a data, creativity, and technology-driven experience into a reality. 
                            </span>
                         </span>
                      </h1>
@@ -43,42 +39,40 @@
                               <h2 class="gradientText animate__animated animate__slow" data-scroll
                                  data-scroll-position="top" data-scroll-repeat="true"
                                  data-scroll-class="animate__fadeInUp">
-                                 legacy of unlocking possibilities
+                                 Tapping into the hidden potential
                               </h2>
                               <span class="text-wrap animate__animated animate__slow" data-scroll
                                  data-scroll-position="top" data-scroll-repeat="true"
                                  data-scroll-class="animate__fadeInUp">
-                                 <p>Limitless passion, ground-breaking innovation and boundless creativity allow
-                                    us to create market-leading digital opportunities that continue to power our
-                                    partners success.</p>
+                                 <p>Limitless passion, ground-breaking innovation, and boundless creativity allow us to create market-leading digital opportunities that continue to power our partner’s success.</p>
                               </span>
                            </div>
                         </div>
                         <div class="carousel-container container">
-                           <div class="panel panel-1 active" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-1 active" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>WEBSITE DEVELOPMENT</h3>
                               <span class="v-head">WEBSITE DEVELOPMENT</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>We build custom websites that blend form and function. Our team creates responsive, user-friendly sites that enhance your brand and deliver seamless navigation. Let us transform your online presence with cutting-edge design and top-tier performance.</p>
                            </div>
-                           <div class="panel panel-1" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-1" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>GRAPHIC DESIGNING</h3>
                               <span class="v-head">GRAPHIC DESIGNING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Make your brand unforgettable by leveraging our professional graphic design services. From logos to full identities, we craft eye-catching designs that resonate with your audience and elevate your brand’s impact.</p>
                            </div>
-                           <div class="panel panel-1" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-1" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>DIGITAL MARKETING</h3>
                               <span class="v-head">DIGITAL MARKETING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>We drive results. Our tailored campaigns increase visibility, attract the right traffic, and turn leads into loyal customers. Using SEO, social media, and paid ads, we help your business grow and succeed online.</p>
                            </div>
-                           <div class="panel panel-1" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-1" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>APPLICATION DEVELOPMENT</h3>
                               <span class="v-head">APP DEVELOPMENT</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Need an app? We build high-performance mobile and enterprise solutions that prioritize functionality, scalability, and an exceptional user experience. We provide innovative businesses with innovative apps that fulfill needs and exceed expectations.</p>
                            </div>
-                           <div class="panel panel-1" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-1" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>UI/UX DESIGNING</h3>
                               <span class="v-head">UI/UX DESIGNING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Great design starts with great user experience. Our UI/UX experts create intuitive, visually stunning interfaces that engage users and make navigation effortless. When the aesthetics complement the usability, every interaction is smooth and satisfying.</p>
                            </div>
                         </div>
                      </div>
@@ -101,8 +95,8 @@
             <div id="scroll-w">
                <div class="scroll-heading animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                   data-scroll-class="animate__fadeInUp">
-                  <div class="h1">skillfully <span class="gradient-effect">solving Challenges&nbsp;</span></div>
-                  <div class="h1">skillfully <span class="gradient-effect">solving Challenges&nbsp;</span></div>
+                  <div class="h1">Making solving <span class="gradient-effect">challenges a breeze&nbsp;</span></div>
+                  <div class="h1">Making solving <span class="gradient-effect">challenges a breeze&nbsp;</span></div>
                </div>
             </div>
             <div class="container-fluid">
@@ -111,10 +105,7 @@
                      <div class="scroll-paragraph-wrap animate__animated animate__slow" data-scroll
                         data-scroll-position="top" data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
                         <!-- we provide consulting services that    -->
-                        <p> we provide digital products and services that solve today’s challenges by leveraging your
-                           organization’s unique potential to create tomorrow’s opportunities and deliver real
-                           business
-                           results.
+                        <p>Our digital products and services will tap into your organization’s unique potential to help you solve today’s challenges and create tomorrow’s opportunities. We lead the way to you delivering real business results.
                         </p>
                      </div>
                   </div>
@@ -128,7 +119,7 @@
                      <div class="transform-box-wrap">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-position="top"
                            data-scroll-repeat="true" data-scroll-class="animate__fadeInUp"><a aria-label="know more"
-                              href="https://nexbyte.com/transformation">we pride ourselves as the best IT company in town.</a></h3>
+                              href="javascript:;">Not to brag, but we pride ourselves as the best IT company in town.</a></h3>
                         <div class="cus-hr"></div>
                         <div class="row p-0 m-0">
                            <div class="col-12 col-lg-12 p-0 m-0 animate__animated animate__slow" data-scroll
@@ -137,14 +128,14 @@
                               <h2 class="gradientText animate__animated animate__slow" data-scroll
                                  data-scroll-position="top" data-scroll-repeat="true"
                                  data-scroll-class="animate__fadeInUp">
-                                 Introducing you to the Stephen Hawkins of the <br class="d-none-br animate__animated animate__slow" data-scroll
-                                    data-scroll-repeat="true" data-scroll-class="animate__fadeInUp"> Digital World. NexByte your
+                                 If there were a Stephen Hawkins of the Digital World,  <br class="d-none-br animate__animated animate__slow" data-scroll
+                                    data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">  we’d be it. Trust NexByte to lead you to the gates 
                                  <br class="d-none-br animate__animated animate__slow" data-scroll
                                     data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
-                                 gateway to ultimate success!
+                                     of success!
                                  <span class="text-wrap s1-f">
                                     <span class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                       data-scroll-class="animate__fadeInUp">We, at NexByte, strive hard to achieve that perfect blend of <small style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">100%</small> customer satisfaction and the well-being of our employees and staff members. We believe in returning high value to our customers for the money that they invest in our services. Our primary motto is to:
+                                       data-scroll-class="animate__fadeInUp">In trying to achieve <small style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">100%</small> customer satisfaction, NexByte doesn’t leave the well-being of our employees and staff behind. We believe in balance and returning high value to our customers. But fret not; you will always get your money’s worth. Our primary motto is to:
                                     </span>
                                  </span>
                               </h2>
@@ -153,11 +144,11 @@
                         <div class="text clearfix">
                            <ul>
                               <li style='font-family: "Cocogoose Pro Light";' class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                 data-scroll-class="animate__fadeInUp"><img src="images/check.svg" width="15" alt=""> Help you get recognized by the world</li>
+                                 data-scroll-class="animate__fadeInUp"><img src="images/check.svg" width="15" alt=""> create impactful strategies that tick all your expected checkboxes</li>
                               <li style='font-family: "Cocogoose Pro Light";' class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                 data-scroll-class="animate__fadeInUp"><img src="images/check.svg" width="15" alt=""> Formulate strategies that fall in line with your expectations</li>
+                                 data-scroll-class="animate__fadeInUp"><img src="images/check.svg" width="15" alt=""> Provide budget-friendly yet result-driven solutions </li>
                               <li style='font-family: "Cocogoose Pro Light";' class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                 data-scroll-class="animate__fadeInUp"><img src="images/check.svg" width="15" alt=""> Provide result-driven solutions that are not heavy on your wallet</li>
+                                 data-scroll-class="animate__fadeInUp"><img src="images/check.svg" width="15" alt=""> Get worldwide recognition of our client’s brand</li>
                            </ul>
                            <!--<div class="since"><span class="txt">Since <br>2008</span></div>-->
                         </div>
@@ -173,7 +164,7 @@
                      <div class="interactive-box-wrap">
                         <h3 class="animate__animated animate__slow " data-scroll data-scroll-position="top"
                            data-scroll-repeat="true" data-scroll-class="animate__fadeInUp"><a aria-label="know more"
-                              href="https://nexbyte.com/interactive-marketing">interactive marketing</a></h3>
+                              href="https://nexbyte.com/interactive-marketing">Magic of Marketing</a></h3>
                         <div class="cus-hr"></div>
                         <div class="row p-0 m-0">
                            <div class="col-12 col-lg-12 p-0 m-0 animate__animated animate__slow" data-scroll
@@ -182,40 +173,40 @@
                               <h2 class="gradientText animate__animated animate__slow" data-scroll
                                  data-scroll-position="top" data-scroll-repeat="true"
                                  data-scroll-class="animate__fadeInUp">
-                                 enhancing customer <br class="d-none-br">relationships
+                                 Did anyone say lifelong customer relationships?
                                  <span class="text-wrap animate__animated animate__slow" data-scroll
                                     data-scroll-position="top" data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
-                                    <span>Our unrivaled insights, innovative thinking, strategic approach, content services and technology solutions can help you create meaningful and lasting relationships with your customers.</span>
+                                    <span>Our unrivaled insights, innovative thinking, and strategic approach deliver the best content and tech solutions. All of these ingredients come together to create the perfect recipe for meaningful and lasting customer relationships.</span>
                                  </span>
                               </h2>
                            </div>
                         </div>
                         <div class="carousel-container container">
-                           <div class="panel panel-2 active" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-2 active" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>WEBSITE DEVELOPMENT</h3>
                               <span class="v-head">WEBSITE DEVELOPMENT</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>We build custom websites that blend form and function. Our team creates responsive, user-friendly sites that enhance your brand and deliver seamless navigation. Let us transform your online presence with cutting-edge design and top-tier performance.</p>
                            </div>
-                           <div class="panel panel-2" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-2" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>GRAPHIC DESIGNING</h3>
                               <span class="v-head">GRAPHIC DESIGNING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Make your brand unforgettable by leveraging our professional graphic design services. From logos to full identities, we craft eye-catching designs that resonate with your audience and elevate your brand’s impact.</p>
                            </div>
-                           <div class="panel panel-2" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-2" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>DIGITAL MARKETING</h3>
                               <span class="v-head">DIGITAL MARKETING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>We drive results. Our tailored campaigns increase visibility, attract the right traffic, and turn leads into loyal customers. Using SEO, social media, and paid ads, we help your business grow and succeed online.</p>
                            </div>
-                           <div class="panel panel-2" style="background-image:radial-gradient(rgb(81, 79, 79), rgb(0, 0, 0))">
+                           <div class="panel panel-2" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>APPLICATION DEVELOPMENT</h3>
                               <span class="v-head">APP DEVELOPMENT</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Need an app? We build high-performance mobile and enterprise solutions that prioritize functionality, scalability, and an exceptional user experience. We provide innovative businesses with innovative apps that fulfill needs and exceed expectations.</p>
                            </div>
-                           <div class="panel panel-2" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-2" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>UI/UX DESIGNING</h3>
                               <span class="v-head">UI/UX DESIGNING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Great design starts with great user experience. Our UI/UX experts create intuitive, visually stunning interfaces that engage users and make navigation effortless. When the aesthetics complement the usability, every interaction is smooth and satisfying.</p>
                            </div>
                         </div>
                      </div>
@@ -230,7 +221,7 @@
                      <div class="digital-box-wrap">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-position="top"
                            data-scroll-repeat="true" data-scroll-class="animate__fadeInUp"><a aria-label="know more"
-                              href="https://nexbyte.com/commerce">we do more than just business.</a></h3>
+                              href="javascript:;">Looking at the business AND beyond</a></h3>
                         <div class="cus-hr"></div>
                         <div class="row p-0 m-0">
                            <div class="col-12 col-md-7 col-lg-7 col-sm-12 p-0 m-0 animate__animated animate__slow" data-scroll
@@ -246,7 +237,7 @@
                                     data-scroll-position="top" data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
                                     <span>
-                                       where our expertise and knowledge, combined with your <br class="d-none-br">requirements give birth to a brand identity that portrays <br class="d-none-br">uniqueness in all ways imaginable.
+                                    Your requirements will be rightly matched with our  <br class="d-none-br">expertise and knowledge, creating a brand identity that <br class="d-none-br"> will always stand on top.
                                     </span>
                                  </span>
                               </h2>
@@ -393,7 +384,7 @@
                                        </button>
                                        <div class="accordion-content">
                                           <p>
-                                             The experts at NexByte, are some of the best in the industry and know exactly how to revamp your website and social media with graphics, visuals, and animations that throw it in the limelight. We throw in our elements of creativity and utilize our strategic insight to make your website visually appealing to your audience, and the aesthetics speak of your professionalism and expertise.
+                                          NexByte houses some of the best talent the industry has to offer. We know what it takes to revamp your website and social media with crisp graphics and animations that ensure you remain center-stage. A visually appealing website requires the right combination of creativity and strategic insight. Leave it to us to wow your audience with the right aesthetics that justify your brand’s expertise.
                                           </p>
                                        </div>
                                     </div>
@@ -404,7 +395,7 @@
                                        </button>
                                        <div class="accordion-content">
                                           <p>
-                                             We know the secret mantra of keeping your business relevant in this fast paced world. Our experts possess a deep understanding of the most complex of algorithms and are equipped with the knowledge required to take your business to an unexpected level. We are an advanced IT company bearing the technology and the resources to give your brand a futuristic touch.
+                                          Today’s fast-paced world makes it excruciatingly hard for businesses to stay relevant. Lucky for you, our team of experts deeply understands even the trickiest of algorithms and knows the requirements to take your business to another level. We will use our advanced technology and resources to ensure that your brand has that extra futuristic touch to it.
                                           </p>
                                        </div>
                                     </div>
@@ -415,7 +406,7 @@
                                        </button>
                                        <div class="accordion-content">
                                           <p>
-                                             Your success is ultimately ours! Hence, we treat your project and business as our very own and exercise all measures necessary to make your company stand at the very top. With NexByte, you no longer have to worry about your project. We are a responsive team who understand the importance of staying in touch with you at all times to ensure that you do not feel left out at any step of the process.
+                                          We treat our clients as an extension of us, meaning your success is ours too! At NexByte, your project and business are taken as seriously as our own, and all necessary measures are taken to make you more attractive to clients. Our team understands the importance of timely communication and will keep you in the loop during each step of the process.
                                           </p>
                                        </div>
                                     </div>
@@ -438,7 +429,7 @@
                      <div class="mobility-box-wrap">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-position="top"
                            data-scroll-repeat="true" data-scroll-class="animate__fadeInUp"><a aria-label="know more"
-                              href="https://nexbyte.com/mobility">mobility</a></h3>
+                              href="javascript:;">Mobility</a></h3>
                         <div class="cus-hr"></div>
                         <div class="row p-0 m-0">
                            <div class="col-12 col-lg-12 p-0 m-0 animate__animated animate__slow" data-scroll
@@ -446,42 +437,40 @@
                               data-scroll-class="animate__fadeInUp">
                               <h2 class="gradientText animate__animated animate__slow" data-scroll
                                  data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
-                                 embracing the mobile<br class="d-none-br"> advantage
+                                 Leaning into the mobile <br class="d-none-br"> advantage
                                  <span class="text-wrap animate__animated animate__slow" data-scroll
                                     data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
-                                    <span>Mobile technologies have transformed business processes and
-                                       capabilities. We operate at the crossroads of mobility, digital
-                                       technology and operations to help you create value for your customers.
+                                    <span>Everything in the world today is a testament to mobile technology’s power to transform business processes and capabilities. We know how to synchronize mobility, digital technology, and operations. So, with our help, you can greatly enhance the value you create for your customers. .
                                     </span>
                                  </span>
                               </h2>
                            </div>
                         </div>
                         <div class="carousel-container container">
-                           <div class="panel panel-3 active" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-3 active" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>WEBSITE DEVELOPMENT</h3>
                               <span class="v-head">WEBSITE DEVELOPMENT</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>We build custom websites that blend form and function. Our team creates responsive, user-friendly sites that enhance your brand and deliver seamless navigation. Let us transform your online presence with cutting-edge design and top-tier performance.</p>
                            </div>
-                           <div class="panel panel-3" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-3" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>GRAPHIC DESIGNING</h3>
                               <span class="v-head">GRAPHIC DESIGNING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Make your brand unforgettable by leveraging our professional graphic design services. From logos to full identities, we craft eye-catching designs that resonate with your audience and elevate your brand’s impact.</p>
                            </div>
-                           <div class="panel panel-3" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-3" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>DIGITAL MARKETING</h3>
                               <span class="v-head">DIGITAL MARKETING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>We drive results. Our tailored campaigns increase visibility, attract the right traffic, and turn leads into loyal customers. Using SEO, social media, and paid ads, we help your business grow and succeed online.</p>
                            </div>
-                           <div class="panel panel-3" style="background-image:radial-gradient(rgb(81, 79, 79), rgb(0, 0, 0))">
+                           <div class="panel panel-3" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>APPLICATION DEVELOPMENT</h3>
                               <span class="v-head">APP DEVELOPMENT</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Need an app? We build high-performance mobile and enterprise solutions that prioritize functionality, scalability, and an exceptional user experience. We provide innovative businesses with innovative apps that fulfill needs and exceed expectations.</p>
                            </div>
-                           <div class="panel panel-3" style="background-image: radial-gradient(#484848, rgb(0, 0, 0), #484848);">
+                           <div class="panel panel-3" style="background-image: url('images/bg-card.png');background-size: cover;">
                               <h3>UI/UX DESIGNING</h3>
                               <span class="v-head">UI/UX DESIGNING</span>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perferendis, tenetur a optio laboriosam temporibus autem ab! Velit quibusdam in itaque error nisi illum ea perferendis placeat porro quas vero molestias perspiciatis, deserunt quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio illo, at corrupti nostrum maxime sapiente!</p>
+                              <p>Great design starts with great user experience. Our UI/UX experts create intuitive, visually stunning interfaces that engage users and make navigation effortless. When the aesthetics complement the usability, every interaction is smooth and satisfying.</p>
                            </div>
                         </div>
                      </div>
@@ -498,16 +487,12 @@
                         data-scroll-position="top" data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-position="top"
                            data-scroll-repeat="true" data-scroll-class="animate__fadeInUp"><a aria-label="know more"
-                              href="https://nexbyte.com/brands-products">brands <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&</span> products</a></h3>
+                              href="javascript:;">brands <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&</span> products</a></h3>
                         <div class="cus-hr"></div>
                         <h2 class="gradientText animate__animated animate__slow" data-scroll data-scroll-position="top"
-                           data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">specialists in your need</h2>
+                           data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">Specialized Across Multitudes </h2>
                         <h6 class="animate__animated animate__slow" data-scroll data-scroll-position="top"
-                           data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">we weave technology-driven
-                           ideas into existence across a
-                           spectrum
-                           of specialized <br class="d-none-br">products
-                           and services within our four divisions.
+                           data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">NexByte operates across four divisions. Within those four divisions we develop innovative technology-driven ideas  <br class="d-none-br">across a multitude of specialized products and services.
                         </h6>
                         <div class="swiper-container brands-products-swiper bp-new-version">
                            <div class="swiper-wrapper">
@@ -997,11 +982,7 @@
                   <div class="col-12">
                      <div class="scroll-paragraph-wrap">
                         <h6 class="animate__animated animate__slow" data-scroll data-scroll-position="top"
-                           data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">for organizations on the
-                           journey towards innovation, growth and
-                           digital-first thinking,
-                           we assist in building and deploying the right solutions, integrated to business needs
-                           and customized for business success.
+                           data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">We cater to organizations seeking growth and innovation, tweaking the solutions to fit their needs. Let us help you build, deploy, and integrate the products your business needs to fly high.
                         </h6>
                      </div>
                   </div>
@@ -1430,8 +1411,8 @@
             <div id="client-scroll-w">
                <div class="client-scroll-heading animate__animated animate__slow" data-scroll data-scroll-position="top"
                   data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
-                  <div class="h1"><span class="gradient-effect">transforming</span> your Possibilities&nbsp;</div>
-                  <div class="h1"><span class="gradient-effect">transforming</span> your Possibilities&nbsp;</div>
+                  <div class="h1">Making solving <span class="gradient-effect">challenges a breeze&nbsp;</span></div>
+                  <div class="h1">Making solving <span class="gradient-effect">challenges a breeze&nbsp;</span></div>
                </div>
             </div>
             <div class="footer-container-custom">
