@@ -12,9 +12,7 @@
                     <span>Graphic Designing</span>
                     <span class="banner-text-wrap">
                         <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">We design and
-                            build industry-leading web-based products that bring value to your customers, delivered with
-                            compelling UX.
+                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">What makes us stand out? Well, it’s the attractive graphic designs we produce that will, in one way, grab the attention of your customers while at the same time conveying your brand message. We offer creative and functional solutions for branding that your business needs to stand out.
                         </span>
                     </span>
                 </h1>
@@ -248,13 +246,12 @@
             <div class="row clearfix">
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">What Are Graphic Designing
-                        Services?
+                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Graphic Designing Services: Explained
                     </h1>
                 </div>
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <div class="lower-text">Graphic design encompasses a wide range of services, including brand identity development, logo design, print and digital advertising, UX/UI design, packaging, typography, motion graphics, and visual content for websites and social media. It also involves creating visually compelling and user-friendly designs that enhance user experiences while maintaining brand consistency across various platforms. From marketing materials to custom illustrations, graphic design plays a crucial role in visually communicating a brand’s message to its audience.
+                    <div class="lower-text">Graphic design services include logo and branding, as well as services for print materials, web and other digital advertisements, and social media graphics. We fuse both skill and planning in the conception of designs that appeal to fans and prospects.
 
                     </div>
                 </div>
@@ -272,13 +269,12 @@
                 <div class="row clearfix text-center">
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Achieve Your Business Goals
-                            with Expert Graphic Design Solutions
+                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Advance your business objective with graphic designing solutions
                         </h1>
                     </div>
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <div class="lower-text">Our skilled and experienced designers specialize in a wide range of graphic design services. Here are some of the solutions we can deliver for you: from brand identity creation and logo design to print and digital marketing materials, UX/UI design, packaging, and custom illustrations, all tailored to elevate your brand and communicate your message effectively.
+                        <div class="lower-text">With a team of dedicated and skilled designers, you can be sure that we’ll make visuals that suit your brand perfectly. Here’s how we can help:
                         </div>
                     </div>
                 </div>
@@ -293,8 +289,8 @@
                             <i class="fa-solid fa-cart-shopping"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Brand Identity</h3>
-                            <p>With professional brand identity design, businesses can establish a unique and memorable presence, build trust with their audience, and stand out in any market.</p>
+                            <h3>Branding</h3>
+                            <p>WIt is from such brand development techniques that we build brand images that are appropriate to your type of business and resonate with your customer base.</p>
                         </div>
                     </div>
                 </div>
@@ -304,8 +300,19 @@
                             <i class="fa-solid fa-globe"></i>
                         </div>
                         <div class="card__content">
+                            <h3>Print Design</h3>
+                            <p>All our print designs reflect both high visibility as well as legibility for use in brochures, flyers, or poster formats.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card__bx" style="--clr: #307cf2">
+                    <div class="card__data">
+                        <div class="card__icon">
+                            <i class="fa-solid fa-pen-to-square"></i>
+                        </div>
+                        <div class="card__content">
                             <h3>Digital Design</h3>
-                            <p>Digital designs can captivate a global audience. They're visually engaging and interactive, helping to hold users' attention and enhance their overall experience.</p>
+                            <p>We design banners and social media posts that will capture the user’s attention and take your online branding to the next level.</p>
                         </div>
                     </div>
                 </div>
@@ -316,7 +323,7 @@
                         </div>
                         <div class="card__content">
                             <h3>Custom Graphics</h3>
-                            <p>Tailored graphic designs created to meet the specific needs of your business can save time and resources by streamlining your brand’s visual communication and enhancing customer engagement.</p>
+                            <p>Lastly, NexByte offers tailored graphic designs for businesses like yours. So, if you’re looking to bring in maximum customers and streamline your brand's visual communication, we’re your best bet.</p>
                         </div>
                     </div>
                 </div>
@@ -564,7 +571,7 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Stand Out Digitally with a Best-in-Class Graphic Design Company</h3>
+                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Create an online presence that outshines all the others with the industry-leading graphic design company.</h3>
                         <div class="cus-hr"></div>
                     </div>
                     <div class="features" style="padding-top: 20px;">
@@ -572,7 +579,7 @@
                             <div class="inner-box">
                                 <h5 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
-                                    At NexByte, we offer every graphic design service you need to create a visually compelling and cohesive brand presence, including:
+                                    At NexByte, we offer all the graphic design services you need to create a strong visual identity, including:
                                 </h5>
                             </div>
                         </div>
@@ -580,33 +587,30 @@
                             <ul style="margin-top: -40px;">
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Brand Identity and Logo Design</li>
+                                        alt=""> Logo Design & Branding</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Digital and Print Marketing Materials</li>
+                                        alt=""> Print Design, which includes Brochures, Flyers, and Posters.</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Packaging Design</li>
+                                        alt=""> Printed Ads & Social Media Content</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Custom Illustrations and Motion Graphics</li>
+                                        alt=""> Website & App Design</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> UI Design and UX Design </li>
+                                        alt=""> Packaging Design </li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Social Media and Web Design</li>
+                                        alt=""> Illustrations & Icons</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Market Research - Ideation - Wireframing - Prototyping</li>
+                                        alt=""> Motion Graphics</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Project Management - Creative Direction - Visual Storytelling</li>
-                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Consulting - Publishing - Maintenance - Support</li>
+                                        alt=""> Marketing Materials</li>
                                 
-                                <li class="pt-4">The role of a graphic design company is to create solutions that effectively communicate your brand’s message and fulfill your unique business goals. With the right graphic design services, you can establish a strong visual identity or elevate the performance of your existing brand.</li>
+                                <li class="pt-4">As a graphic design company, we’re here to provide professional designs that enable you or your business to communicate effectively to the audience/clients. It is centered on designing the best-looking logo(s) that reflects your business needs.</li>
                             </ul>
 
                         </div>
@@ -831,7 +835,7 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Consult Your Vision</h6>
+                <h6 class="heading">Consult Our Experts</h6>
                 <p>Set the creative direction with our graphic design consultants</p>
 
             </div>
@@ -843,8 +847,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Choose a Design Style</h6>
-                <p>Deciding on the visual style and overall creative approach</p>
+                <h6 class="heading">Pick Preferred Styles</h6>
+                <p>Have the creative freedom to pick a visual style and approach to the project.</p>
 
             </div>
         </div>
@@ -855,8 +859,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Design.</h6>
-                <p>Crafting a beautiful and user-friendly web solution with our design specialists</p>
+                <h6 class="heading">Design It</h6>
+                <p>Our design specialists will weave a beautiful and user-friendly web solution as directed.</p>
 
             </div>
         </div>
@@ -867,8 +871,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Create.</h6>
-                <p>Bringing your vision to life with our skilled graphic designers</p>
+                <h6 class="heading">Bring It To Reality</h6>
+                <p>Our experienced graphic designers will bring your dream to fruition.</p>
 
             </div>
         </div>
@@ -879,8 +883,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Launch Your Brand.</h6>
-                <p>Introducing your visual identity and ensuring it remains impactful with ongoing support and updates.</p>
+                <h6 class="heading">Take Off</h6>
+                <p>After launching your visual identity, we’ll provide ongoing support and updates so that it remains impactful for the foreseeable future.</p>
 
             </div>
         </div>

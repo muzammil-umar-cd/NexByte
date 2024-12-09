@@ -12,7 +12,7 @@
                     <span>Application Development</span>
                     <span class="banner-text-wrap">
                         <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium optio quisquam quis quo eveniet, quae suscipit commodi earum libero ex placeat explicabo incidunt nemo debitis?
+                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">Yes, we develop applications too! Our team designs and develops mobile and web-based applications that provide business solutions that enhance user experience.
                         </span>
                     </span>
                 </h1>
@@ -245,13 +245,12 @@
             <div class="row clearfix">
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">What Are Website Development
-                        Services?
+                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">WApplication Development Services? What’s that now?
                     </h1>
                 </div>
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <div class="lower-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure voluptates eum saepe error, fuga libero eveniet quos nostrum quae temporibus architecto esse, odit voluptatem unde quaerat accusamus velit laudantium similique odio quasi quas necessitatibus nulla. Voluptatem illo, ratione inventore veniam necessitatibus nihil.
+                    <div class="lower-text">In essence, the creation of software solutions such as mobile apps, web apps, and enterprise-level applications is what application development refers to. If you’re looking for solutions that meet your business goals and provide real value, then you came to the right place.
 
                     </div>
                 </div>
@@ -269,14 +268,12 @@
                 <div class="row clearfix text-center">
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Achieve your business goals
-                            with web development solutions
+                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Meet your business objectives with application development solutions.
                         </h1>
                     </div>
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <div class="lower-text">Our battle-tested developers specialize in a wide range of web
-                            development services. Here are some of the solutions that we can deliver for you.
+                        <div class="lower-text">With a team of expert developers, we excel in developing scalable applications that can solve even the most challenging business problems. Have a look at some of our offerings below:
 
                         </div>
                     </div>
@@ -292,12 +289,8 @@
                             <i class="fa-solid fa-cart-shopping"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Ecommerce</h3>
-                            <p>With eCommerce solutions, businesses can operate <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">24</span>
-                                hours a day, <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">7</span>
-                                days a week, and reach customers in any time zone.</p>
+                            <h3>Mobile Applications</h3>
+                            <p>NexByte provides its clients with user-friendly and engaging mobile apps that are optimized for both iOS and Android devices.</p>
                         </div>
                     </div>
                 </div>
@@ -308,8 +301,7 @@
                         </div>
                         <div class="card__content">
                             <h3>Web Applications</h3>
-                            <p>Web applications can reach a global audience. They're interactive and engaging, so can
-                                easily hold users' attention.</p>
+                            <p>We also design interactive web apps that are accessible across multiple platforms and devices.</p>
                         </div>
                     </div>
                 </div>
@@ -319,9 +311,8 @@
                             <i class="fa-solid fa-pen-to-square"></i>
                         </div>
                         <div class="card__content">
-                            <h3>CMS</h3>
-                            <p>A dedicated CMS designed to the specific needs of your business will save time and money
-                                by optimizing internal workflows.</p>
+                            <h3>Enterprise Solutions</h3>
+                            <p>Enterprise applications are another one of our offerings. These solutions help streamline workflows and improve overall organization efficiency.</p>
                         </div>
                     </div>
                 </div>
@@ -569,8 +560,7 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Become a digital stand-out
-                            with a best-in-class web development company</h3>
+                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">The best digital companies deserve the best-in-class application development!</h3>
                         <div class="cus-hr"></div>
                     </div>
                     <div class="features" style="padding-top: 20px;">
@@ -578,8 +568,7 @@
                             <div class="inner-box">
                                 <h5 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
-                                    At NexByte, we offer every web development service you need to build a
-                                    full-blown web-based product, such as:
+                                    Below is the wide range of application development services we provide, including:
                                 </h5>
                             </div>
                         </div>
@@ -587,34 +576,25 @@
                             <ul style="margin-top: -40px;">
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Website Development</li>
+                                        alt=""> Mobile Application Development (iOS & Android)</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
                                         alt=""> Web Application Development</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> eCommerce Solutions Development</li>
+                                        alt=""> Enterprise Solutions</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Dedicated Content Management System Development</li>
-                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> No-code Development <span
+                                        alt=""> Maintenance<span
                                         style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&</span>
-                                    Low-code Development</li>
+                                        Support for said apps</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Ideation - Market Research - Wireframing - Prototyping</li>
+                                        alt=""> API Integrations </li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Project Management - UI Design - UX Design - Coding - QA Testing</li>
-                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Cybersecurity - Consulting - Publishing - Maintenance - Support</li>
-                                <li class="pt-4">The role of a web development company is to seek and build solutions
-                                    that can best fulfill the client’s unique business goals. With the right web
-                                    development services, you’ll be able to build a successful product from scratch or
-                                    increase the performance of an existing one.</li>
+                                        alt=""> Cloud-based Solutions</li>
+                                <li class="pt-4">Our top priority is providing applications that help you meet your organizational goals without compromising on the user experience.</li>
                             </ul>
 
                         </div>
@@ -839,8 +819,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Consult your idea.</h6>
-                <p>Setting the direction with our web development consultants</p>
+                <h6 class="heading">Consult to begin.</h6>
+                <p>The process begins with a consultation that directs the application development throughout the project.</p>
 
             </div>
         </div>
@@ -851,8 +831,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Choose a technology.</h6>
-                <p>Deciding about the tech stack and the overall approach</p>
+                <h6 class="heading">Choose the tech.</h6>
+                <p>Moving on to picking the right tech stack and the project approach.</p>
 
             </div>
         </div>
@@ -863,8 +843,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Design.</h6>
-                <p>Crafting a beautiful and user-friendly web solution with our design specialists</p>
+                <h6 class="heading">Design Phase.</h6>
+                <p>The design phase begins as our specialists begin designing an aesthetic and functional application with our design specialists.</p>
 
             </div>
         </div>
@@ -875,8 +855,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Develop.</h6>
-                <p>Coding the web app courtesy of our experienced engineers</p>
+                <h6 class="heading">Development Phase.</h6>
+                <p>Now, our skilled engineers will start coding the application</p>
 
             </div>
         </div>
@@ -887,8 +867,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Reach the market.</h6>
-                <p>Launching your product and keeping it in good form with support and maintenance</p>
+                <h6 class="heading">Down it goes to the market.</h6>
+                <p>Finally, your product is launched, and our maintenance and support are there to take of any future issues.</p>
 
             </div>
         </div>

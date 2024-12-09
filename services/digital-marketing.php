@@ -12,9 +12,7 @@
                     <span>Digital Marketing</span>
                     <span class="banner-text-wrap">
                         <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">We design and
-                            build industry-leading web-based products that bring value to your customers, delivered with
-                            compelling UX.
+                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">NexByte is experienced in helping businesses grow their online reach; our tailored digital marketing strategy will drive traffic, build engagement, and organically grow your audience.
                         </span>
                     </span>
                 </h1>
@@ -248,13 +246,12 @@
             <div class="row clearfix">
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">What Are Graphic Designing
-                        Services?
+                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">What We Mean By Digital Marketing Services:
                     </h1>
                 </div>
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <div class="lower-text">Graphic design encompasses a wide range of services, including brand identity development, logo design, print and digital advertising, UX/UI design, packaging, typography, motion graphics, and visual content for websites and social media. It also involves creating visually compelling and user-friendly designs that enhance user experiences while maintaining brand consistency across various platforms. From marketing materials to custom illustrations, graphic design plays a crucial role in visually communicating a brand’s message to its audience.
+                    <div class="lower-text">Our digital marketing services offer everything from search engine marketing to social media marketing to email marketing campaigns to pay-per-click advertising. We help develop a good strategy to reach and convert your audience.
 
                     </div>
                 </div>
@@ -272,13 +269,12 @@
                 <div class="row clearfix text-center">
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Achieve Your Business Goals
-                            with Expert Graphic Design Solutions
+                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Exceed your business potential with NexByte’s digital marketing solutions.
                         </h1>
                     </div>
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <div class="lower-text">Our skilled and experienced designers specialize in a wide range of graphic design services. Here are some of the solutions we can deliver for you: from brand identity creation and logo design to print and digital marketing materials, UX/UI design, packaging, and custom illustrations, all tailored to elevate your brand and communicate your message effectively.
+                        <div class="lower-text">We have a team of marketers with extensive experience in developing customized campaigns that have allowed multiple businesses to meet their online marketing goals. We have the following offerings in this category:
                         </div>
                     </div>
                 </div>
@@ -293,8 +289,8 @@
                             <i class="fa-solid fa-cart-shopping"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Brand Identity</h3>
-                            <p>With professional brand identity design, businesses can establish a unique and memorable presence, build trust with their audience, and stand out in any market.</p>
+                            <h3>Social Media Marketing</h3>
+                            <p>We manage your social media presence with cheerful content and effective campaigns across platforms such as Facebook, Instagram, and LinkedIn.</p>
                         </div>
                     </div>
                 </div>
@@ -304,8 +300,8 @@
                             <i class="fa-solid fa-globe"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Digital Design</h3>
-                            <p>Digital designs can captivate a global audience. They're visually engaging and interactive, helping to hold users' attention and enhance their overall experience.</p>
+                            <h3>PPC & SEM</h3>
+                            <p>We'll help you reach your target audience fast using strategic paid ads with the best ROI available on Google Ads and on social media.</p>
                         </div>
                     </div>
                 </div>
@@ -315,8 +311,8 @@
                             <i class="fa-solid fa-pen-to-square"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Custom Graphics</h3>
-                            <p>Tailored graphic designs created to meet the specific needs of your business can save time and resources by streamlining your brand’s visual communication and enhancing customer engagement.</p>
+                            <h3>Email Marketing</h3>
+                            <p>Our email campaigns are designed to nurture leads, build customer relationships, and drive conversions.</p>
                         </div>
                     </div>
                 </div>
@@ -564,7 +560,7 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Stand Out Digitally with a Best-in-Class Graphic Design Company</h3>
+                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Stand atop your digital rivals with a top-tier digital marketing agency.</h3>
                         <div class="cus-hr"></div>
                     </div>
                     <div class="features" style="padding-top: 20px;">
@@ -572,7 +568,7 @@
                             <div class="inner-box">
                                 <h5 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
-                                    At NexByte, we offer every digital marketing service you need to enhance your online presence and achieve your business goals, including:
+                                    Through NexByte, we give you a complete package of digital marketing services to help you grow your business
                                 </h5>
                             </div>
                         </div>
@@ -580,33 +576,30 @@
                             <ul style="margin-top: -40px;">
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Search Engine Optimization (SEO)</li>
+                                        alt=""> Social media marketing</li>
+                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
+                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
+                                        alt=""> SEM: Search Engine Marketing</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
                                         alt=""> Pay-Per-Click (PPC) Advertising</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Social Media Marketing</li>
+                                        alt=""> Content Marketing</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Content Marketing and Strategy</li>
+                                        alt=""> Email Marketing</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Email Marketing Campaigns</li>
+                                        alt=""> Influencer Marketing</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Analytics and Reporting</li>
+                                        alt=""> Affiliates Marketing</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Market Research - Strategy Development - Campaign Planning</li>
-                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Project Management - Creative Direction - Brand Strategy</li>
-                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Consulting - Maintenance - Support</li>
+                                        alt=""> Digital Strategy & Consulting</li>
                                 
-                                <li class="pt-4">The role of a digital marketing company is to create solutions that effectively promote your brand and fulfill your unique business objectives. With the right digital marketing services, you can drive traffic, generate leads, and increase conversions.</li>
+                                <li class="pt-4">With the right digital marketing services, you will get effective reach to your audience, create engagement, and reach for long-term business growth.</li>
                             </ul>
 
                         </div>
@@ -831,8 +824,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Consult Your Idea</h6>
-                <p>Set the marketing direction with our digital marketing consultants.</p>
+                <h6 class="heading">Consult Our Marketers</h6>
+                <p>Set the theme for the marketing campaign with our marketing and branding consultants.</p>
 
             </div>
         </div>
@@ -843,8 +836,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Choose a Strategy</h6>
-                <p>Deciding on the marketing approach and overall campaign direction.</p>
+                <h6 class="heading">Pick Preferred Strategy</h6>
+                <p>Freely choose a digital marketing strategy and a visual style for the project.</p>
 
             </div>
         </div>
@@ -855,8 +848,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Execute</h6>
-                <p>Implementing your marketing strategy with our experienced team.</p>
+                <h6 class="heading">Design It</h6>
+                <p>Our specialists will develop the necessary content and designs.</p>
 
             </div>
         </div>
@@ -867,8 +860,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Launch Your Campaign</h6>
-                <p>Introducing your brand to the market and ensuring it remains effective with ongoing support and optimization.</p>
+                <h6 class="heading">Bring It To Reality</h6>
+                <p>Our experienced content marketers, social media experts, and designers will convert your campaign into reality.</p>
 
             </div>
         </div>
@@ -879,8 +872,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Launch Your Brand.</h6>
-                <p>Introducing your visual identity and ensuring it remains impactful with ongoing support and updates.</p>
+                <h6 class="heading">Take Off</h6>
+                <p>After launching your marketing campaign, we’ll provide ongoing support and updates so that it remains impactful for the foreseeable future.</p>
 
             </div>
         </div>

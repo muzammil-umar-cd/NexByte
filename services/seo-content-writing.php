@@ -12,7 +12,7 @@
                     <span>SEO & Content Writing</span>
                     <span class="banner-text-wrap">
                         <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium optio quisquam quis quo eveniet, quae suscipit commodi earum libero ex placeat explicabo incidunt nemo debitis?
+                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">NexByte’s expertise extends beyond design and web development. We also excel at your search engine rankings and create engaging content that drives traffic and enhances user experience.
                         </span>
                     </span>
                 </h1>
@@ -245,13 +245,12 @@
             <div class="row clearfix">
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">What Are Website Development
-                        Services?
+                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">SEO and Content Writing Services: Explained
                     </h1>
                 </div>
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <div class="lower-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure voluptates eum saepe error, fuga libero eveniet quos nostrum quae temporibus architecto esse, odit voluptatem unde quaerat accusamus velit laudantium similique odio quasi quas necessitatibus nulla. Voluptatem illo, ratione inventore veniam necessitatibus nihil.
+                    <div class="lower-text">A company can benefit from SEO (Search Engine Optimization) and content writing services to improve its website’s visibility on search engines. NexByte ensures that we deliver high-quality content that targets your business audience.
 
                     </div>
                 </div>
@@ -269,14 +268,12 @@
                 <div class="row clearfix text-center">
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Achieve your business goals
-                            with web development solutions
+                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">SEO and content writing solutions help you meet your business needs
                         </h1>
                     </div>
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <div class="lower-text">Our battle-tested developers specialize in a wide range of web
-                            development services. Here are some of the solutions that we can deliver for you.
+                        <div class="lower-text">Our SEO specialists and content writers come together to develop content strategies that target the right audience and boost your website rankings organically. Here’s how we can help:
 
                         </div>
                     </div>
@@ -292,12 +289,8 @@
                             <i class="fa-solid fa-cart-shopping"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Ecommerce</h3>
-                            <p>With eCommerce solutions, businesses can operate <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">24</span>
-                                hours a day, <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">7</span>
-                                days a week, and reach customers in any time zone.</p>
+                            <h3>On-Page SEO</h3>
+                            <p>Let us optimize your website content and use certain keywords that help you rank higher on search engines like Google.</p>
                         </div>
                     </div>
                 </div>
@@ -307,9 +300,8 @@
                             <i class="fa-solid fa-globe"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Web Applications</h3>
-                            <p>Web applications can reach a global audience. They're interactive and engaging, so can
-                                easily hold users' attention.</p>
+                            <h3>Content Creation</h3>
+                            <p>Our content writers are the best in the field. They can generate top-notch blogs, articles, and website content so that you attract maximum traffic and audience appeal.</p>
                         </div>
                     </div>
                 </div>
@@ -319,9 +311,8 @@
                             <i class="fa-solid fa-pen-to-square"></i>
                         </div>
                         <div class="card__content">
-                            <h3>CMS</h3>
-                            <p>A dedicated CMS designed to the specific needs of your business will save time and money
-                                by optimizing internal workflows.</p>
+                            <h3>Link Building</h3>
+                            <p>Using only white hat techniques to create backlinks, we improve your website’s overall authority ranking on search engines.</p>
                         </div>
                     </div>
                 </div>
@@ -569,8 +560,7 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Become a digital stand-out
-                            with a best-in-class web development company</h3>
+                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Enhance your digital presence with industry-leading SEO and content writing services.</h3>
                         <div class="cus-hr"></div>
                     </div>
                     <div class="features" style="padding-top: 20px;">
@@ -578,8 +568,7 @@
                             <div class="inner-box">
                                 <h5 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
-                                    At NexByte, we offer every web development service you need to build a
-                                    full-blown web-based product, such as:
+                                    At NexByte, we provide the SEO and content writing services essential to make a noticeable online presence, such as:
                                 </h5>
                             </div>
                         </div>
@@ -587,34 +576,31 @@
                             <ul style="margin-top: -40px;">
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Website Development</li>
+                                        alt=""> On-Page SEO & Keyword Optimization</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Web Application Development</li>
+                                        alt=""> Content Creation (Blogs, Articles, Web Copy)</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> eCommerce Solutions Development</li>
+                                        alt=""> Link Building<span
+                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> &</span> 
+                                        Off-Page SEO</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Dedicated Content Management System Development</li>
+                                        alt=""> Technical SEO<span
+                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> &</span>
+                                         Website Audits</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> No-code Development <span
-                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&</span>
-                                    Low-code Development</li>
+                                        alt=""> SEO Consulting</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Ideation - Market Research - Wireframing - Prototyping</li>
+                                        alt=""> Local SEO</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Project Management - UI Design - UX Design - Coding - QA Testing</li>
-                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Cybersecurity - Consulting - Publishing - Maintenance - Support</li>
-                                <li class="pt-4">The role of a web development company is to seek and build solutions
-                                    that can best fulfill the client’s unique business goals. With the right web
-                                    development services, you’ll be able to build a successful product from scratch or
-                                    increase the performance of an existing one.</li>
+                                        alt=""> Content Strategy<span
+                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> & </span>Planning </li>
+                                <li class="pt-4">In summary, if you want your company to rise up to its competitor's level and attract greater traffic, it’s crucial that you pick the right SEO strategy and content.</li>
                             </ul>
 
                         </div>
@@ -839,8 +825,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Consult your idea.</h6>
-                <p>Setting the direction with our web development consultants</p>
+                <h6 class="heading">Consult Our Content Team</h6>
+                <p>Set the theme for the SEO campaign with our marketing consultants</p>
 
             </div>
         </div>
@@ -851,8 +837,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Choose a technology.</h6>
-                <p>Deciding about the tech stack and the overall approach</p>
+                <h6 class="heading">Pick Preferred Approach</h6>
+                <p>Freely choose a content strategy and other major themes for the project.</p>
 
             </div>
         </div>
@@ -863,8 +849,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Design.</h6>
-                <p>Crafting a beautiful and user-friendly web solution with our design specialists</p>
+                <h6 class="heading">Design It</h6>
+                <p>Our specialists will develop the necessary content.</p>
 
             </div>
         </div>
@@ -875,8 +861,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Develop.</h6>
-                <p>Coding the web app courtesy of our experienced engineers</p>
+                <h6 class="heading">Bring It To Reality</h6>
+                <p>Our experienced content writers and SEO experts will convert your campaign into reality.</p>
 
             </div>
         </div>
@@ -887,8 +873,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Reach the market.</h6>
-                <p>Launching your product and keeping it in good form with support and maintenance</p>
+                <h6 class="heading">Take Off</h6>
+                <p>After launching the content on your website, we’ll provide ongoing support and updates so that it remains impactful for the foreseeable future.</p>
 
             </div>
         </div>

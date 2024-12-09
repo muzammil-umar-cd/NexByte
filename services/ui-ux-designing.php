@@ -12,7 +12,7 @@
                     <span>UI/UX Designing</span>
                     <span class="banner-text-wrap">
                         <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium optio quisquam quis quo eveniet, quae suscipit commodi earum libero ex placeat explicabo incidunt nemo debitis?
+                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">NexByte’s designs will always be user-centered. Our specialty lies in merging functionality with a visual appeal so the user experience remains seamless and aesthetically pleasing across all web and mobile platforms.
                         </span>
                     </span>
                 </h1>
@@ -245,13 +245,12 @@
             <div class="row clearfix">
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">What Are Website Development
-                        Services?
+                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Defining UI/UX Designing Services
                     </h1>
                 </div>
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <div class="lower-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure voluptates eum saepe error, fuga libero eveniet quos nostrum quae temporibus architecto esse, odit voluptatem unde quaerat accusamus velit laudantium similique odio quasi quas necessitatibus nulla. Voluptatem illo, ratione inventore veniam necessitatibus nihil.
+                    <div class="lower-text">UI  stands for User Interface, and UX stands for User Experience. These design services focus on the look, feel, and functionality of your application or website. Our designers do everything with the end user in mind, ensuring your product has effortless navigation and doesn’t only cater to the aesthetics.
 
                     </div>
                 </div>
@@ -269,14 +268,12 @@
                 <div class="row clearfix text-center">
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Achieve your business goals
-                            with web development solutions
+                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Target specific business goals with custom UI/UX designing solutions.
                         </h1>
                     </div>
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <div class="lower-text">Our battle-tested developers specialize in a wide range of web
-                            development services. Here are some of the solutions that we can deliver for you.
+                        <div class="lower-text">Our skilled designers make sure that your digital product is eye-catching and user-friendly simultaneously. You can look at some of our offerings below:
 
                         </div>
                     </div>
@@ -292,12 +289,8 @@
                             <i class="fa-solid fa-cart-shopping"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Ecommerce</h3>
-                            <p>With eCommerce solutions, businesses can operate <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">24</span>
-                                hours a day, <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">7</span>
-                                days a week, and reach customers in any time zone.</p>
+                            <h3>Research Before Anything Else</h3>
+                            <p>Before proceeding to design, our specialists conduct thorough user research to get an idea of your audience’s buying behavior and needs.</p>
                         </div>
                     </div>
                 </div>
@@ -307,9 +300,8 @@
                             <i class="fa-solid fa-globe"></i>
                         </div>
                         <div class="card__content">
-                            <h3>Web Applications</h3>
-                            <p>Web applications can reach a global audience. They're interactive and engaging, so can
-                                easily hold users' attention.</p>
+                            <h3>Wireframing & Prototyping</h3>
+                            <p>We also develop wireframes and prototypes to conceptualize the structure and flow of your product before beginning the design process.</p>
                         </div>
                     </div>
                 </div>
@@ -319,9 +311,8 @@
                             <i class="fa-solid fa-pen-to-square"></i>
                         </div>
                         <div class="card__content">
-                            <h3>CMS</h3>
-                            <p>A dedicated CMS designed to the specific needs of your business will save time and money
-                                by optimizing internal workflows.</p>
+                            <h3>Interface Design</h3>
+                            <p>Our team of UI designers creates aesthetic yet functional interfaces that maximize user engagement and interaction with your business.</p>
                         </div>
                     </div>
                 </div>
@@ -569,8 +560,7 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Become a digital stand-out
-                            with a best-in-class web development company</h3>
+                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Be a digital mogul with a best-in-class UI/UX designing agency.</h3>
                         <div class="cus-hr"></div>
                     </div>
                     <div class="features" style="padding-top: 20px;">
@@ -578,8 +568,7 @@
                             <div class="inner-box">
                                 <h5 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
-                                    At NexByte, we offer every web development service you need to build a
-                                    full-blown web-based product, such as:
+                                    At NexByte, we provide top-tier UI/UX design services, including:
                                 </h5>
                             </div>
                         </div>
@@ -587,34 +576,31 @@
                             <ul style="margin-top: -40px;">
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Website Development</li>
+                                        alt=""> User Research<span
+                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> & </span> Analysis</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Web Application Development</li>
+                                        alt=""> Wireframing <span
+                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> & </span> Prototyping</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> eCommerce Solutions Development</li>
+                                        alt=""> UI <span
+                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> & </span>Interaction Design</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Dedicated Content Management System Development</li>
+                                        alt=""> Usability Testing</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> No-code Development <span
-                                        style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">&</span>
-                                    Low-code Development</li>
+                                        alt=""> Responsive Design
+                                        </li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Ideation - Market Research - Wireframing - Prototyping</li>
+                                        alt=""> Mobile UI/UX Design</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Project Management - UI Design - UX Design - Coding - QA Testing</li>
-                                <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                                    data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Cybersecurity - Consulting - Publishing - Maintenance - Support</li>
-                                <li class="pt-4">The role of a web development company is to seek and build solutions
-                                    that can best fulfill the client’s unique business goals. With the right web
-                                    development services, you’ll be able to build a successful product from scratch or
-                                    increase the performance of an existing one.</li>
+                                        alt=""> Design Systems & Guidelines</li>
+                                
+                                <li class="pt-4">What makes a great UI/UX design is its accessibility and usability. Of course, it also needs to be appealing and deliver a positive user experience so there’s higher engagement and customer satisfaction.</li>
                             </ul>
 
                         </div>
@@ -839,8 +825,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Consult your idea.</h6>
-                <p>Setting the direction with our web development consultants</p>
+                <h6 class="heading">Consult UI/UX Team</h6>
+                <p>Set the tone of the project with our consultants</p>
 
             </div>
         </div>
@@ -851,8 +837,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Choose a technology.</h6>
-                <p>Deciding about the tech stack and the overall approach</p>
+                <h6 class="heading">Pick Preferred Styles</h6>
+                <p>Have the creative freedom to pick a visual style and approach to the project.</p>
 
             </div>
         </div>
@@ -863,8 +849,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Design.</h6>
-                <p>Crafting a beautiful and user-friendly web solution with our design specialists</p>
+                <h6 class="heading">Design It</h6>
+                <p>Creating a user-friendly yet stunning web solution</p>
 
             </div>
         </div>
@@ -875,8 +861,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Develop.</h6>
-                <p>Coding the web app courtesy of our experienced engineers</p>
+                <h6 class="heading">Build It</h6>
+                <p>Our skilled designers will whisper life into your vision.</p>
 
             </div>
         </div>
@@ -887,8 +873,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Reach the market.</h6>
-                <p>Launching your product and keeping it in good form with support and maintenance</p>
+                <h6 class="heading">Take Off</h6>
+                <p>Launch your visual identity and ensure with our ongoing support and updates that it remains relevant throughout all seasons.</p>
 
             </div>
         </div>

@@ -12,9 +12,7 @@
                     <span>Website Development</span>
                     <span class="banner-text-wrap">
                         <span data-scroll data-scroll-speed="1" data-scroll-position="top" data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">We design and
-                            build industry-leading web-based products that bring value to your customers, delivered with
-                            compelling UX.
+                            data-scroll-class="animate__fadeInUp" class="animate__animated animate__slow">NexByte builds and delivers high-quality web-based products. Our products not only possess a creative and captivating UI but also generate maximum value for your customers.
                         </span>
                     </span>
                 </h1>
@@ -248,15 +246,12 @@
             <div class="row clearfix">
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">What Are Website Development
-                        Services?
+                    <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Basics of Website Development Services
                     </h1>
                 </div>
                 <div class="column col-xl-6 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                     data-scroll-class="animate__fadeInUp">
-                    <div class="lower-text">Web development encompasses a wide range of services, which include
-                        delivering websites or web apps, cybersecurity solutions, UX/UI design, eCommerce solutions,
-                        website architectures, QA testing, maintenance, consulting, and even a custom CMS.
+                    <div class="lower-text">A bunch of services come under the umbrella of web development, e.g., creating websites or apps, UX/UI design, cybersecurity solutions, eCommerce solutions, website architectures, QA testing, maintenance, consulting, and even a custom CMS.
 
                     </div>
                 </div>
@@ -274,14 +269,12 @@
                 <div class="row clearfix text-center">
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Achieve your business goals
-                            with web development solutions
+                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">Achieve your business goals with web development solutions
                         </h1>
                     </div>
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                         data-scroll-class="animate__fadeInUp">
-                        <div class="lower-text">Our battle-tested developers specialize in a wide range of web
-                            development services. Here are some of the solutions that we can deliver for you.
+                        <div class="lower-text">Our developers are highly skilled and battle-tested and can deliver a plethora of web development services at our client’s command. Take a look at some of the solutions that we deliver, including:
 
                         </div>
                     </div>
@@ -298,11 +291,10 @@
                         </div>
                         <div class="card__content">
                             <h3>Ecommerce</h3>
-                            <p>With eCommerce solutions, businesses can operate <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">24</span>
-                                hours a day, <span
-                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">7</span>
-                                days a week, and reach customers in any time zone.</p>
+                            <p>E-commerce solutions have completely changed the business landscape; one can now do business <span
+                                    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 900;">24/7</span>
+                               
+                                    and target customers in every conceivable timezone.</p>
                         </div>
                     </div>
                 </div>
@@ -313,8 +305,7 @@
                         </div>
                         <div class="card__content">
                             <h3>Web Applications</h3>
-                            <p>Web applications can reach a global audience. They're interactive and engaging, so can
-                                easily hold users' attention.</p>
+                            <p>With their interactive nature, web applications are a great tool to reach a bigger or even a global audience. They can captivate customers like no other.</p>
                         </div>
                     </div>
                 </div>
@@ -325,8 +316,7 @@
                         </div>
                         <div class="card__content">
                             <h3>CMS</h3>
-                            <p>A dedicated CMS designed to the specific needs of your business will save time and money
-                                by optimizing internal workflows.</p>
+                            <p>Successful businesses are run on the foundation of a strong CMS. These systems are tailor-designed to your business requirments, are time-saving, and promote optimal workflows.</p>
                         </div>
                     </div>
                 </div>
@@ -574,8 +564,7 @@
                 <div class="inner">
                     <div class="sec-title">
                         <h3 class="animate__animated animate__slow" data-scroll data-scroll-repeat="true"
-                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Become a digital stand-out
-                            with a best-in-class web development company</h3>
+                            data-scroll-class="animate__fadeInUp" style="font-family: 'Vipnagorgialla Rg';font-size: 2rem;">Rise To Digital Fame With The Best-in-the-game </h3>
                         <div class="cus-hr"></div>
                     </div>
                     <div class="features" style="padding-top: 20px;">
@@ -583,8 +572,7 @@
                             <div class="inner-box">
                                 <h5 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
-                                    At NexByte, we offer every web development service you need to build a
-                                    full-blown web-based product, such as:
+                                    You name it, and NexByte would probably be offering that web development service. Basically, we offer everything needed to construct a rounded web-based product, including:
                                 </h5>
                             </div>
                         </div>
@@ -601,7 +589,7 @@
                                         alt=""> eCommerce Solutions Development</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Dedicated Content Management System Development</li>
+                                        alt=""> Content Management System Development</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
                                         alt=""> No-code Development <span
@@ -609,17 +597,14 @@
                                     Low-code Development</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
-                                        alt=""> Ideation - Market Research - Wireframing - Prototyping</li>
+                                        alt=""> Research - Wireframing - Prototyping</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
                                         alt=""> Project Management - UI Design - UX Design - Coding - QA Testing</li>
                                 <li class="p-2 animate__animated animate__slow" data-scroll data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp"><img src="../images/check.svg" width="15"
                                         alt=""> Cybersecurity - Consulting - Publishing - Maintenance - Support</li>
-                                <li class="pt-4">The role of a web development company is to seek and build solutions
-                                    that can best fulfill the client’s unique business goals. With the right web
-                                    development services, you’ll be able to build a successful product from scratch or
-                                    increase the performance of an existing one.</li>
+                                <li class="pt-4">At NexByte, we recognize that it is our duty, as a web development company, to provide solutions that match our client’s business goals. We can guarantee that our innovative web development services can provide you with a fresh product or bring an existing one to its maximum efficiency.</li>
                             </ul>
 
                         </div>
@@ -844,8 +829,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Consult your idea.</h6>
-                <p>Setting the direction with our web development consultants</p>
+                <h6 class="heading">Consult to begin</h6>
+                <p>The process begins with a consultation that directs the web development of the project.</p>
 
             </div>
         </div>
@@ -856,8 +841,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Choose a technology.</h6>
-                <p>Deciding about the tech stack and the overall approach</p>
+                <h6 class="heading">Choose the tech.</h6>
+                <p>Moving on to picking the right tech stack and the project approach.</p>
 
             </div>
         </div>
@@ -868,8 +853,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Design.</h6>
-                <p>Crafting a beautiful and user-friendly web solution with our design specialists</p>
+                <h6 class="heading">Design Phase.</h6>
+                <p>The design phase begins as our specialists begin creating an innovative and user-friendly web solution with our design specialists.</p>
 
             </div>
         </div>
@@ -880,8 +865,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Develop.</h6>
-                <p>Coding the web app courtesy of our experienced engineers</p>
+                <h6 class="heading">Development Phase.</h6>
+                <p>Now, our skilled software engineers will start coding the web app</p>
 
             </div>
         </div>
@@ -892,8 +877,8 @@
                 <a href=""><i class="fa fa-spinner"></i></a>
             </div>
             <div class="card_title title-white">
-                <h6 class="heading">Reach the market.</h6>
-                <p>Launching your product and keeping it in good form with support and maintenance</p>
+                <h6 class="heading">Down it goes to the market.</h6>
+                <p>Finally, your product is launched, and our maintenance and support are there to take of any future issues.</p>
 
             </div>
         </div>
