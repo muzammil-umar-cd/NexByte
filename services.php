@@ -259,32 +259,32 @@
             <div class="right-col col-lg-6 col-md-12 col-sm-12">
                 <div class="inner">
                     <div class="sec-title">
-                        <h3 style="font-family: 'Vipnagorgialla Rg';font-size: 2.5rem;">WHAT MAKES US STAND OUT</h3>
+                        <h3 style="font-family: 'Vipnagorgialla Rg';font-size: 2.5rem;">What’s SO SPECIAL ABOUT US, ANYWAY?</h3>
                         <div class="cus-hr"></div>
                     </div>
                     <div class="features" style="padding-top: 20px;">
                         <div class="feature">
                             <div class="inner-box">
                                 <h2 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll="" data-scroll-position="top" data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
-                                    WE THINK DIFFERENTLY
+                                THINKING OUTSIDE THE BOX
                                 </h2>
-                                <div class="text">Having extensive experience on our credit, we know that it is challenging to engage the current generation with run-of-the-mill tactics. That is why we emphasize coming up with out-of-the-box solutions. </div>
+                                <div class="text">Given our experience in the field, we know how much of a hurdle it is to attract and hold the attraction of our youth. The traditional ways no longer prove fruitful. Hence, we’re always on our toes to find more diverse and more engaging solutions to problems. </div>
                             </div>
                         </div>
                         <div class="feature">
                             <div class="inner-box">
                                 <h2 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll="" data-scroll-position="top" data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
-                                    DID HIGH-QUALITY PROJECTS
+                                    ONLY PREMIUM-QUALITY PROJECTS
                                 </h2>
-                                <div class="text">Getting traction in the digital space has become increasingly difficult. Well, we have mastered the art of giving our customers an edge over its competitors. </div>
+                                <div class="text">Having trouble gaining traction lately? Well, you’re not the only one. But, the good news is that we have grasped exactly how to put our customers one step ahead of their competitors. </div>
                             </div>
                         </div>
                         <div class="feature">
                             <div class="inner-box">
                                 <h2 class="gradientText animate__animated animate__slow animate__fadeInUp" data-scroll="" data-scroll-position="top" data-scroll-repeat="true" data-scroll-class="animate__fadeInUp">
-                                    SUPER EXPERT TEAM MEMBERS
+                                    TEAM MEMBERS ON THEIR A-GAME
                                 </h2>
-                                <div class="text">We heavily invest in our employees to make sure they are always on their A-game. At NexByte, the management crafts customized training programs that jack up every worker’s skill set.</div>
+                                <div class="text">At NexByte, we believe our employees to be the most prized possessions, and we invest them accordingly so that they’re never found lacking. To further enhance the capabilities of our employees, our management regularly develops customized training programs to enhance our teams’ skill sets.</div>
                             </div>
                         </div>
                     </div>
@@ -851,11 +851,10 @@
                 <!--Title Block-->
                 <div class="row clearfix">
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">NexByte CAN HELP YOU TO UNLOCK YOUR TRUE POTENTIAL
-                        </h1>
+                        <h1 style="font-family: 'Vipnagorgialla Rg';font-size: 3rem;">NexByte TAKES YOU TO NEW HEIGHTS</h1>
                     </div>
                     <div class="column col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                        <div class="lower-text">We literally leave no stone unturned to meet our customers' expectations, even if it means walking an extra mile.
+                        <div class="lower-text">There’s no distance in the digital landscape that we won’t travel to satisfy our customers’ expectations; you can hold us to that promise
                         </div>
                     </div>
                 </div>

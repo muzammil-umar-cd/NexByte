@@ -229,10 +229,8 @@
                               data-scroll-class="animate__fadeInUp">
                               <h2 class="gradientText animate__animated animate__slow" data-scroll
                                  data-scroll-position="top" data-scroll-repeat="true"
-                                 data-scroll-class="animate__fadeInUp">
-                                 We work together<br class="d-none-br">
-                                 with you to claim the<br class="d-none-br">
-                                 heights of success.
+                                 data-scroll-class="animate__fadeInUp" style="font-size: 1.2rem;line-height: 28px;">
+                                 We see our clients as more than just to do business. That’s why, we’re there every <br class="d-none-br">step of the way as you climb your way to<br class="d-none-br"> success.
                                  <span class="text-wrap animate__animated animate__slow" data-scroll
                                     data-scroll-position="top" data-scroll-repeat="true"
                                     data-scroll-class="animate__fadeInUp">
@@ -390,7 +388,7 @@
                                     </div>
                                     <div class="accordion-item-service">
                                        <button id="accordion-button-2" aria-expanded="false">
-                                          <span class="accordion-title"><span style="color: #307cf2;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">2</span>. FUTURISTIC APPROACH</span>
+                                          <span class="accordion-title"><span style="color: #307cf2;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">2</span>. A FUTURISTIC FLAIR</span>
                                           <span class="icon" aria-hidden="true"></span>
                                        </button>
                                        <div class="accordion-content">
@@ -401,7 +399,7 @@
                                     </div>
                                     <div class="accordion-item-service">
                                        <button id="accordion-button-3" aria-expanded="false">
-                                          <span class="accordion-title"><span style="color: #307cf2;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">3</span>. DESPERSTION FOR SUCCESS</span>
+                                          <span class="accordion-title"><span style="color: #307cf2;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">3</span>. DRIVE FOR SUCCESS</span>
                                           <span class="icon" aria-hidden="true"></span>
                                        </button>
                                        <div class="accordion-content">

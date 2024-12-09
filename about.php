@@ -729,6 +729,7 @@
                            <div class="text">
                               <p>NexByte’s recent mission has been to assist upcoming companies find their footing in the digital landscape. We strive to break all barriers in reaching absolute perfection that benefits not only us but millions of businesses worldwide. And finally, part of our core mission is to change the general perception of IT and the digital world in Pakistan
                               </p>
+                              <p class="pt-2">We look forward to the day that the youth of the country is excited about the IT industry and all it has to offer.</p>
                            </div>
                         </div>
                      </div>
@@ -748,9 +749,8 @@
                         <div class="content">
                            <div class="text">
                               <p>Back in the day, Nexbyte used to be just a tiny digital marketing firm that serviced Pakistani businesses. Like every other company starting a venture from scratch, we’ve had our fair share of hardships. At first, we were just a bunch of tech heads running around trying to survive in the digital world. Somewhere down the line, we came together and decided to begin our journey as a tech-based agency that holds ethics, professionalism, and social responsibility as its core principles. 
-It is through sheer determination, consistency, and hard work that we have managed to climb so high. Here we are now, standing as one of the largest web design agencies, head-to-head with all the big guns in the industry. Nexbyte believes in the power of hard work and dedication to alchemize dreams into reality!
-
                               </p>
+                              <p class="pt-2">It is through sheer determination, consistency, and hard work that we have managed to climb so high. Here we are now, standing as one of the largest web design agencies, head-to-head with all the big guns in the industry. Nexbyte believes in the power of hard work and dedication to alchemize dreams into reality!</p>
                            </div>
                         </div>
                      </div>
