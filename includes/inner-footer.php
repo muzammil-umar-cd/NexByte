@@ -404,7 +404,7 @@
                   <div class="footer-text mb-25">
                      <ul>
                         <li>
-                           <a href="#"><i class="fa fa-map-marker" style="color: #307cf2;"></i> Office <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Banglow # 36-E-3,
+                           <a href="#"><i class="fa fa-map-marker" style="color: #307cf2;"></i> Banglow <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"># 36-E-3,
                                  Block-6,</span> PECHS, Karachi</a>
                         </li>
                         <li>
