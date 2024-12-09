@@ -400,8 +400,8 @@
                   <div class="footer-text mb-25">
                      <ul>
                         <li>
-                           <a href="#"><i class="fa fa-map-marker" style="color: #307cf2;"></i> Office <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"># A-407, 4th Floor, Fortune Tower,
-                                 Block-6,</span> Razi Road, PECHS, Karachi</a>
+                        <a href="#"><i class="fa fa-map-marker" style="color: #307cf2;"></i> Office <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Banglow # 36-E-3,
+                        Block-6,</span> PECHS, Karachi</a>
                         </li>
                         <li>
                            <a href="#"><i class="fa fa-phone" style="color: #307cf2;"></i> <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> 021-34541397</span></a>
