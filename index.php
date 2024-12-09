@@ -1424,7 +1424,7 @@
 
                      <div class="info">
                         <div class="information">
-                           <i class="fa fa-map-marker"></i> &nbsp &nbsp &nbsp
+                           <i class="fa fa-map-marker"></i> &nbsp &nbsp 
 
                            <p>Banglow <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"># 36-E-3,
                            Block-6,</span> PECHS, Karachi</p>
