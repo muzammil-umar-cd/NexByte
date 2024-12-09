@@ -406,8 +406,8 @@
                     <div class="information">
                         <i class="fa fa-map-marker"></i> &nbsp &nbsp &nbsp
 
-                        <p>Office <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"># A-407, 4th Floor, Fortune Tower,
-                                Block-6,</span> Razi Road, PECHS, Karachi</p>
+                        <p>Banglow <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"># 36-E-3,
+                           Block-6,</span> PECHS, Karachi</p>
                     </div>
                     <div class="information">
                         <i class="fas fa-envelope"></i> &nbsp &nbsp
